@@ -63,15 +63,12 @@ After deep-diving into the data, 4 major business insights were uncovered:
 
 ### Overall Churn Distribution
 ![Churn Distribution](plots/churn_distribution.png)
-*(Insert your generated `churn_distribution.png` in the plots folder)*
 
 ### Feature Correlation Heatmap (Consumption vs Margins)
 ![Correlation Heatmap](plots/feature_correlation_heatmap.png)
-*(Insert your generated `feature_correlation_heatmap.png` in the plots folder)*
 
 ### Churn by Categorical Features
 ![Categorical Analysis](plots/categorical_churn_stacked_bars.png)
-*(Insert your generated `categorical_churn_stacked_bars.png` in the plots folder)*
 
 </details>
 
