@@ -90,6 +90,4 @@ To reproduce the analysis locally:
    Run `eda.ipynb` block by block in Jupyter or VS Code. The code is designed to automatically generate a `plots/` folder and save high-resolution visual outputs.
 
 ---
-**Author:** [Sənin Adın/Soyadın]  
-**Contact:** [LinkedIn Profilin] | [Email Ünvanın]  
 *Turning raw data into strategic business value.*
