@@ -1,4 +1,4 @@
-# ⚡ PowerGuard: Strategic Customer Retention & Profitability Analysis (Energy Sector)
+# ⚡ PowerCo: Strategic Customer Retention & Profitability Analysis (Energy Sector)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Data_Analysis-Pandas-150458?logo=pandas&logoColor=white)
